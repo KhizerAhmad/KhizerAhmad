@@ -20,8 +20,6 @@ I'm a Software Engineer with expertise in FullStack Developer, Data Engineering 
 📜 Meta - Introduction to Front-End Development</br>
 📜 DeepLearning.AI - AI for Everyone
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/KhizerAhmad/KhizerAhmad/output/snake.svg" alt="Snake animation" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
