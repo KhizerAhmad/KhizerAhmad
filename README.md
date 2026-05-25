@@ -1,6 +1,6 @@
 # **Hi there, I'm Khizer Ahmad👋**
 
-I'm a Software Engineer with expertise in FullStack Developer, Data Engineering Practitioner
+I'm a Software Engineer with expertise in FullStack Developer, also a Data Engineering Practitioner.
 
 # 💫 About Me:
 🔭 I'm currently working on - a production FastAPI blog platform with JWT auth, rate limiting, and Sentry which is deployed on Railway<br>👯 I'm looking to collaborate on backend projects involving FastAPI, REST APIs, or anything data-related<br>🤝 I'm looking for help with Azure cloud services and getting into data engineering properly<br>🌱 I'm currently learning - Docker, async FastAPI patterns, and prepping for Azure DP-203<br>💬 Ask me about - FastAPI, building secure auth systems, or connecting a React frontend to a Python backend<br>⚡ Fun fact: I built a snake game using just OpenCV and NumPy - no game engine, pure logic
