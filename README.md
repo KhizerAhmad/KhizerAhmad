@@ -3,7 +3,7 @@
 I'm a Software Engineer with expertise in FullStack Developer, also a Data Engineering Practitioner.
 
 # 💫 About Me:
-🔭 I'm currently working on - an Food Delivery Mobile App and my FYP a AI-Powered furniture app with AR and embeddings<br>👯 I'm looking to collaborate on full-stack applications involving FastAPI, React/React Native or anything data-related<br>🤝 I'm looking for help with Azure cloud services and getting into data engineering properly<br>🌱 I'm currently learning - Docker, React Native(Advanced), n8n automation, and time-series ML<br>💬 Ask me about - FastAPI, building secure auth systems, React/React Native + Supabase, or applying ML to real-world datasets<br>⚡ Fun fact: I compared 6 ML models on MRI data - turns out ResNet50 with frozen ImageNet really doesn't work well with medical images
+🔭 I'm currently working on - an Food Delivery Mobile App and my FYP a AI-Powered furniture app with AR and embeddings<br>👯 I'm looking to collaborate on full-stack applications involving FastAPI, React/React Native or anything data-related<br>🤝 I'm looking for help with Azure cloud services and getting into data engineering properly<br>🌱 I'm currently learning - Docker, React Native(Advanced), n8n automation, and time-series ML<br>💬 Ask me about - FastAPI, building secure auth systems, React/React Native + Supabase, or applying ML to real-world datasets<br>⚡ Fun fact: I compared 6 ML models on MRI data - tells ResNet50 with frozen ImageNet really doesn't work well with medical images
 
 
 ## 🌐 Socials:
